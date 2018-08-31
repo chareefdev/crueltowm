@@ -1,0 +1,3 @@
+rootProject.name = 'cruel'
+
+include ':app'
